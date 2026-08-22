@@ -12,7 +12,7 @@ redirect_from:
 
 *For more detailed information about my background, experience, education, and projects, please explore the navigation bar above.*
 
-# Hi, I'm Larry.
+# Hi, I'm Can.
 
 I am a Master of Applied Accounting student at the Australian National University, with an academic background in accounting and a strong interest in audit, finance, data analytics, and AI-assisted programming.
 
