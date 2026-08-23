@@ -12,7 +12,7 @@ site_theme               : "sunrise" # The available themes options are "default
 title                    : "Can | Accounting, Audit & Finance"
 title_separator          : "-"
 name                     : &name "Can Li"
-description              : &description "Larry's personal portfolio in accounting, audit & finance"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Can's personal portfolio in accounting, audit & finance"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://larrykaldor123.github.io"# The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "larrykaldor123/larrykaldor123.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Larry"
+  name             : "Can"
   pronouns         : # example: "she/her"  
   bio              : "Master of Applied Accounting student interested in data analytics, Python, SQL, and AI."
   location         : "Canberra, Australia"
