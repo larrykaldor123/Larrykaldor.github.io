@@ -4,7 +4,6 @@ excerpt: "An AI-driven Excel financial data analysis tool built with Python, Pan
 collection: portfolio
 ---
 
-# AI-Powered Financial Data Analysis Tool with MCP
 
 ## Project Overview
 
