@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Larry | Accounting, Audit & Finance"
+title                    : "Can | Accounting, Audit & Finance"
 title_separator          : "-"
 name                     : &name "Can Li"
 description              : &description "Larry's personal portfolio in accounting, audit & finance"   # Update this with a general description of your site, this is the default if not overridden by a page
