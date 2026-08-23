@@ -4,7 +4,6 @@ excerpt: "A data-driven market selection project combining international trade d
 collection: portfolio
 ---
 
-# Smart Lock Overseas Market Selection & Data Analysis
 
 ## Project Overview
 
